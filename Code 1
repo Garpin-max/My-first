@@ -3,4 +3,7 @@ Code 1 of ??
 
 regroup_dico
 
-f <- function()
+f <- function(dico_regroup, variable_simple) {
+
+
+}
