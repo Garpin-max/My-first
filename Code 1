@@ -4,6 +4,6 @@ Code 1 of ??
 regroup_dico
 
 f <- function(dico_regroup, variable_simple) {
-  vs_enpa <-
+  vs_enpa <- unique(vs_enpa %>% select(all_of(variable_simple))
 
 }
