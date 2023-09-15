@@ -5,5 +5,5 @@ regroup_dico
 
 f <- function(dico_regroup, base_enpa, base_sde, variable_simple) {
   vs_enpa <- unique(base_enpa$variable_simple)
-
 }
+#try
