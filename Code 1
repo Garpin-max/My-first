@@ -7,4 +7,7 @@ f <- function(dico_regroup, base_enpa, base_sde, variable_simple) {
   vs_enpa <- unique(base_enpa$variable_simple)
   vs_sde <- unique(base_sde$variable_simple)
   s_absents <- setdiff(vs_sde, vs_sde)
+  for (elmt in s_absents) {
+
+  }
 }
