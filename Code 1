@@ -11,6 +11,7 @@ f <- function(dico_regroup, base_enpa, base_sde, variable_simple) {
       if i in (1:10) :
           try_catch(
       if :
+then :
           )
   }
 }
