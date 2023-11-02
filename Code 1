@@ -9,7 +9,7 @@ f <- function(dico_regroup, base_enpa, base_sde, variable_simple) {
   s_absents <- setdiff(vs_sde, vs_sde)
   for (elmt in s_absents) {
       if i in (1:10) :
-          try_catch( if (a>3 :
+          try_catch( if (a>35 :
       )
   }
 }
