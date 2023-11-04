@@ -1,7 +1,7 @@
 Code 1 of ??
 3
 
-regroup_dico
+regroup_dico <- function
 
 
 }
