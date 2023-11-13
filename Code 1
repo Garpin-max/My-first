@@ -2,6 +2,6 @@ Code 1 of ??
 3
 
 regroup_dico <- function {
-  if a > 2 then 
+  if a > 2 then make
 }
 #try
