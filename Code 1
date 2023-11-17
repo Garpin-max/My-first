@@ -2,6 +2,6 @@ Code 1 of ??
 3
 
 regroup_dico <- function {
-  if a > 2 then make a
+  if a > 2 then make a sw
 }
 #try
