@@ -3,6 +3,6 @@ Code 1 of ??
 
 regroup_dico <- function {
   if a > 2 then make a swap :
-  for i in
+  for i in 1
 }
 #try
