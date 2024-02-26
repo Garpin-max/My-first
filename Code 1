@@ -2,5 +2,8 @@ Code 1 of 10
 chain = list()
 t0 = Sys.time()
 time_list = t0 
+
+while
 pause(minutes = 10)
-do : :
+
+block_t = 
