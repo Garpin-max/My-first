@@ -3,7 +3,7 @@ chain = list()
 t0 = Sys.time()
 time_list = t0 
 
-while
+while {
 pause(minutes = 10)
 
 block_t = 
