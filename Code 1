@@ -6,6 +6,6 @@ time_list = t0
 while TRUE { 
 pause(minutes = 10)
 
-block_t = 
+block_t = create_block(...)
 chain.add(block_t)
 }
