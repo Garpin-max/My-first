@@ -9,3 +9,7 @@ pause(minutes = 10)
 block_t = create_block(...)
 chain.add(block_t)
 }
+
+create_bloc(){
+
+}
